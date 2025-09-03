@@ -20,29 +20,25 @@ All basic and advanced tasks can be done by executing commands. The commands are
 ### 1)	ls Command
 
 The ls command is used to display a list of content of a directory.
-
  Syntax: ls
-
 
 ### 2)	pwd Command
 
 The pwd command is used to display the location of the current working directory.
-
 Syntax: pwd
 
- 
 ### 3)	mkdir Command
 
 The mkdir command is used to create a new directory under any directory.
-
 Syntax: mkdir <directory name>
-
 
 ### 4)	rmdir Command
 
 The rmdir command is used to delete a directory.
-
 Syntax: rmdir <directory name>
+
+<img width="432" height="326" alt="Screenshot_2025-08-29_09-36-33" src="https://github.com/user-attachments/assets/4e505649-f4a3-41ac-a758-b324ea4a7f78" />
+
 
 
 ### 5)	cd Command
@@ -58,6 +54,9 @@ The cat command is a multi-purpose utility in the Linux system. It can be used t
 
 Syntax: cat [OPTION]... [FILE]..
 
+<img width="343" height="139" alt="image" src="https://github.com/user-attachments/assets/a611967f-a6c9-4b11-a6b5-2b78561fa38a" />
+
+
  
 ### 7)	cp Command
 
@@ -65,6 +64,7 @@ The cp command is used to copy a file or directory.
 
 Syntax: cp <existing file name> <new file name>
 
+<img width="274" height="47" alt="image" src="https://github.com/user-attachments/assets/f6edce35-80fd-4e49-898c-6babfa141cd6" />
 
 
 ### 8)	gedit Command
@@ -115,6 +115,8 @@ The id command is used to display the user ID (UID) and group ID (GID).
 
 Syntax: id
 
+<img width="1906" height="66" alt="image" src="https://github.com/user-attachments/assets/64bda2ce-e448-4ccf-87cf-7120022a6314" />
+
 
 ### 15)	grep Command
 
@@ -161,6 +163,9 @@ The ifconfig command is used to configure kernel-resident network interface.
 
 Syntax: ifconfig[options][interface]
 
+<img width="625" height="156" alt="image" src="https://github.com/user-attachments/assets/d5418822-3cd4-46cc-8467-cc67fbf1b53d" />
+
+
 ### 22)	chmod 777 Command
 
 The chmod 777 command gives read, write and execute permission to the owner, group and public.
@@ -173,6 +178,8 @@ $chmod -R 777 /path/to/file/or/folder
 The host command is used to display the IP address for a given domain name and vice versa. It performs the DNS lookups for the DNS Query.
 
 Syntax: host <domain name> or <ip address>
+
+<img width="327" height="65" alt="image" src="https://github.com/user-attachments/assets/209c8925-e235-4ee3-9995-a52711150259" />
 
 
 ### 24)	gzip Command
@@ -195,12 +202,16 @@ The cal command is used to display the current month's calendar with the current
 
 Syntax: cal
 
+<img width="231" height="177" alt="image" src="https://github.com/user-attachments/assets/def1d141-822d-4f58-ba33-d6006d38600d" />
+
 
 ### 27)	clear Command
 
 Linux clear command is used to clear the terminal screen.
 
 Syntax: clear
+
+<img width="738" height="264" alt="image" src="https://github.com/user-attachments/assets/eae75b74-06f3-4de7-bb7b-27dc72682029" />
 
 
 ### 28)	mail Command
@@ -215,6 +226,9 @@ Syntax: mail -s "Subject" <recipient address>
 The df command is used to display the disk space used in the file system. It displays the output as in the number of used blocks, available blocks, and the mounted directory.
 
 Syntax: df
+
+<img width="748" height="220" alt="image" src="https://github.com/user-attachments/assets/4ed91859-a448-4a6a-b834-cb128528ed59" />
+
 
 ### 30)	find Command
 
