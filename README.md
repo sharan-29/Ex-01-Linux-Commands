@@ -47,6 +47,8 @@ The cd command is used to change the current directory.
 
 Syntax: cd <directory name>
 
+<img width="231" height="89" alt="image" src="https://github.com/user-attachments/assets/0efbd4f0-03b9-4bee-b392-1945d7105b63" />
+
 
 ### 6)	cat Command
 
@@ -73,12 +75,17 @@ The gedit is a general-purpose text editor. It can be used to create and edit al
 
 Syntax: gedit file_name
 
+<img width="284" height="50" alt="image" src="https://github.com/user-attachments/assets/888e2f62-d09e-4477-832d-68e299aa6a6d" />
+
 
 ### 9)	su Command
 
 The su command provides administrative access to another user. In other words, it allows access of the Linux shell to another user.
 
 Syntax: su <user name>
+
+<img width="193" height="91" alt="image" src="https://github.com/user-attachments/assets/e053b40b-1df8-4f09-8048-595ebb797279" />
+
 
 
 ### 10)	mv Command
@@ -87,12 +94,16 @@ The mv command is used to move a file or a directory form one location to anothe
 
 Syntax: mv <file name> <directory path>
 
+<img width="210" height="92" alt="image" src="https://github.com/user-attachments/assets/9b41b684-6345-4919-b36a-49bce58d0f8c" />
+
  
 ## 11)	rename Command
 
 The rename command is used to rename files. It is useful for renaming a large group of files.
 
 Syntax: rename 's/old-name/new-name/' files
+
+<img width="291" height="178" alt="image" src="https://github.com/user-attachments/assets/bdeadcbd-0f87-49c1-a58d-512a502f0f5b" />
 
 
 ### 12)	head Command
@@ -101,12 +112,16 @@ The head command is used to display the content of a file. It displays the first
 
 Syntax: head <file name>
 
+<img width="244" height="213" alt="image" src="https://github.com/user-attachments/assets/b11aa5bb-a44e-48eb-ad3d-50ee8f5c8975" />
+
 
 ### 13)	tail Command
 
 The tail command is similar to the head command. The difference between both commands is that it displays the last ten lines of the file content. It is useful for reading the error message.
 
 Syntax: tail <file name>
+
+<img width="227" height="202" alt="image" src="https://github.com/user-attachments/assets/2f6205ac-8674-45fc-a803-6e2e3377b94b" />
 
  
 ### 14)	id Command
@@ -124,6 +139,8 @@ The grep is the most powerful and used filter in a Linux system. The 'grep' stan
 
 Syntax: command | grep <search word>
 
+<img width="251" height="71" alt="image" src="https://github.com/user-attachments/assets/4322bf0d-d881-4507-ae1b-12b4ba8b0e4f" />
+
 
 ### 16)	tr Command
 
@@ -131,11 +148,17 @@ The tr command is used to translate the file content like from lower case to upp
 
 Syntax: command | tr <'old'> <'new'>
 
+<img width="269" height="398" alt="image" src="https://github.com/user-attachments/assets/9391fa76-0a9c-4321-b38c-25c60fc3aee5" />
+
+
 ### 17)	chmod Command
 
 The chmod command is used to change the access mode of a file (i.e., read, write or execute)
 
 Syntax: chmod<options><permissions><file_name>
+
+<img width="232" height="50" alt="image" src="https://github.com/user-attachments/assets/87f88b10-cb2a-4cb7-afb0-e32e6bf13ba8" />
+
 
 ### 18)	tar Command
 
@@ -143,6 +166,9 @@ The tar command is used for creating Archieve and extracting the archieve files.
 
 Syntax: tar[options][archieve-file] [file to be archieved]
 $ tar xvzf file.tar *.c
+
+<img width="709" height="207" alt="image" src="https://github.com/user-attachments/assets/32848a61-feb4-424b-90dd-72981f9900d4" />
+
  
 ### 19)	chown Command
 
@@ -150,11 +176,17 @@ The chown command is used to change ownership.
 
 Syntax: chown owner_name file_name
 
+<img width="387" height="107" alt="image" src="https://github.com/user-attachments/assets/22a55583-e659-4d3c-9f14-452fdf6c98a0" />
+
+
 ### 20)	make Command
 
 The make command is used for building and maintaining group of program.
 
 Syntax: make [-f makefile][options]…….[targets]….
+
+
+<img width="234" height="133" alt="image" src="https://github.com/user-attachments/assets/d4f2240a-228d-47b8-9223-fb404b70f4db" />
 
 
 ### 21)	ifconfig Command
@@ -172,6 +204,9 @@ The chmod 777 command gives read, write and execute permission to the owner, gro
 
 Syntax: chmod 777 file_name
 $chmod -R 777 /path/to/file/or/folder
+
+<img width="436" height="123" alt="image" src="https://github.com/user-attachments/assets/9f3f1510-8c51-4423-9d1a-deff72d0a10f" />
+
  
 ### 23)	host Command
 
@@ -188,12 +223,16 @@ The gzip command is used to truncate the file size. It is a compressing tool. It
 
 Syntax: gzip <file1> <file2> <file3>..
 
+<img width="208" height="51" alt="Screenshot_2025-09-03_14-07-37" src="https://github.com/user-attachments/assets/8d61994c-27e3-4df1-8591-f37fe9dcfaa7" />
+
 
 ### 25)	sort Command
 
 The sort command is used to sort files in alphabetical order.
 
 Syntax:sort <file name>
+
+<img width="264" height="401" alt="image" src="https://github.com/user-attachments/assets/0ead90a9-4aa9-4ad0-a5a8-a2c37286c020" />
 
  
 ### 26)	cal Command
@@ -220,6 +259,8 @@ The mail command is used to send emails from the command line.
 
 Syntax: mail -s "Subject" <recipient address>
 
+<img width="464" height="68" alt="image" src="https://github.com/user-attachments/assets/e9554295-7748-4449-8a68-6cc97bf620e3" />
+
  
 ### 29)	df Command
 
@@ -236,6 +277,7 @@ The find command is used to find a particular file within a directory.
 
 Syntax: find.-name”*.pdf”
 
+<img width="299" height="62" alt="image" src="https://github.com/user-attachments/assets/b3db5604-dd23-4c5a-8842-f05c274c76bb" />
 
 
 
